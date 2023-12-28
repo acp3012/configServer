@@ -1,9 +1,9 @@
 # application related properties
 build:
-  version: "1.0"
+  version: "G.10"
 
 accounts:
-  message: "Welcome to eazybanks Accounts related Production API (From file system)."
+  message: "Welcome to eazybanks Accounts related Production API (github)."
   contactDetails:
     name: "Product owner"
     email: "product@abc.com"
