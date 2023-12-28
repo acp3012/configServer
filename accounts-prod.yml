@@ -1,11 +1,11 @@
 # application related properties
 build:
-  version: "V2"
+  version: "1.001"
 
 accounts:
   message: "Welcome to eazybanks Accounts related Production API."
   contactDetails:
-    name: "Product owner"
+    name: "Palpantian - Product owner"
     email: "product@abc.com"
   onCallSupport:
     - (777) 555-2345
