@@ -1,0 +1,12 @@
+# application related properties
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to eazybanks Cards related production API."
+  contactDetails:
+    name: "The product owner"
+    email: "product.support@abc.com"
+  onCallSupport:
+    - (777) 555-2345
+    - (777) 555-4523

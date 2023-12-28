@@ -1,0 +1,30 @@
+server:
+  port: 9010
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: ''
+  h2:
+    console:
+      enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+# application related properties
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to eazybanks Cards related Production API."
+  contactDetails:
+    name: "Product owner"
+    email: "product@abc.com"
+  onCallSupport:
+    - (777) 555-2345
+    - (777) 555-4523

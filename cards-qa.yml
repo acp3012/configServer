@@ -1,0 +1,12 @@
+# application related properties
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to eazybanks Cards related Testing API."
+  contactDetails:
+    name: "Quality assurance team"
+    email: "qa@abc.com"
+  onCallSupport:
+    - (666) 555-2345
+    - (666) 555-4523
