@@ -3,7 +3,7 @@ build:
   version: "1.001"
 
 accounts:
-  message: "Welcome to eazybanks Accounts related Production API."
+  message: "Welcome to eazybanks Accounts related PROD API."
   contactDetails:
     name: "Palpantian - Product owner"
     email: "product@abc.com"
