@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to eazybanks Cards related production API."
+  message: "Welcome to eazybanks Cards related prod API."
   contactDetails:
     name: "The product owner"
     email: "product.support@abc.com"
