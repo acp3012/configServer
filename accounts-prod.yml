@@ -1,12 +1,12 @@
 # application related properties
 build:
-  version: "1.001"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to eazybanks Accounts related PROD API."
+  message: "Welcome to eazybanks Accounts related PROD API (Ver 1.0)"
   contactDetails:
     name: "Palpantian - Product owner"
-    email: "product@abc.com"
+    email: "product.accounts@abc.com"
   onCallSupport:
     - (777) 555-2345
     - (777) 555-4523
