@@ -1,0 +1,14 @@
+# application related properties
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to eazybanks Loans related Production API."
+  contactDetails:
+    name: "Product owner"
+    email: "product.loans@abc.com"
+  onCallSupport:
+    - (777) 555-2345
+    - (777) 555-4523
+
+
