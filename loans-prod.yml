@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to eazybanks Loans related Production API."
+  message: "Welcome to eazybanks Loans related PROD API (ver 1.0)."
   contactDetails:
     name: "Product owner"
     email: "product.loans@abc.com"
